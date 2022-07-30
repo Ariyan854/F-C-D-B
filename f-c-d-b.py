@@ -405,7 +405,7 @@ logo = ("""\033[1;32m
   
   Owner   :  Ariyan Ahmed Nazmul
  
-  tim   :  FRIEND CIRCLE DJ BOX
+  TEAM   :  FRIEND CIRCLE DJ BOX
 
   Facebook : ARIYAN AHMED NAZMUL
   
